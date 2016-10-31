@@ -1,4 +1,4 @@
-package com.example.todoApp.Data;
+package com.example.todoApp.data;
 
 import java.util.ArrayList;
 import java.util.List;
